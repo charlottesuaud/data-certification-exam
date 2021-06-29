@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\n    The median age has a positive effect on the number of incidents.\n",
+    "T_STAT": "\n    if median age was not correlated to number of incidents (b_1 = 0), observed beta_1 (8197) would have a t-score of\n    t = (8197 - 0) / 4503 = 1.820 standard deviations above the mean\n",
+    "P_VALUE": "\n    p-value is not < 0.05 significance level so median age is not statistically significant at 95% confidence level ;\n    samely, median age is not statistically significant at 90% confidence level, as p-value is not < 0.1 significance \n    level. We can say median age is significally significant at ~ 87.5% confidence level.\n",
+    "INCREASE": "\n    Holding all other regressors constant, increasing by 1 percentage point the share of families with married\n    couple decreases by 2115 points the number of incidents, with a confidence level of 95%.\n",
+    "LIMITATIONS": "\n    some features are strongly correlated, for example : MEDIAN_AGE with PERC_MARRIED_COUPLE_FAMILY,\n    or PERC_LESS_THAN_HIGH_SCHOOL with PERC_COLLEGE_GRADUATES\n"
+}
